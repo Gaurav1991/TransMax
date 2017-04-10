@@ -1,0 +1,5 @@
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution 1\Solution 1\bin\Debug\Solution 1.exe.config
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution 1\Solution 1\bin\Debug\Solution 1.exe
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution 1\Solution 1\bin\Debug\Solution 1.pdb
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution 1\Solution 1\obj\Debug\Solution 1.exe
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution 1\Solution 1\obj\Debug\Solution 1.pdb

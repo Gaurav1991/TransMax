@@ -1,0 +1,6 @@
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution2\Solution2\bin\Debug\Solution2.exe.config
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution2\Solution2\bin\Debug\Solution2.exe
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution2\Solution2\bin\Debug\Solution2.pdb
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution2\Solution2\obj\Debug\Solution2.csprojResolveAssemblyReference.cache
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution2\Solution2\obj\Debug\Solution2.exe
+c:\users\gaura\onedrive\documents\visual studio 2017\Projects\Solution2\Solution2\obj\Debug\Solution2.pdb
